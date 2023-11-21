@@ -1,0 +1,58 @@
+body{
+    background-image: url(photo-1630879937467-4afa290b1a6b.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.right{
+    display: flex;
+    float: right;
+    padding: 0 100px;
+    margin: -90px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.first{
+   display: flex;
+   color: whitesmoke;
+   border-radius: 8px;
+
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+    
+}
+
+li{
+    padding: 0 10px;
+    color: whitesmoke;
+}
+
+.Third{
+    justify-content: center;
+    color: whitesmoke;
+    display: flex;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+
+.fourth{
+    margin: 0 0 0 50rem;
+    color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: rgb(38, 212, 154);
+    color: whitesmoke;
+    font-size: medium;
+
+}
+
+
